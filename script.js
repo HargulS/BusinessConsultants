@@ -13,6 +13,8 @@ menu.addEventListener("click", () => {
   line3.classList.toggle("change");
 });
 // End of Navbar
+
+
 // Section 2
 const video=document.querySelector('.video')
 const btn=document.querySelector('.buttons i')
